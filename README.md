@@ -5,14 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/13861a193"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/peter-ibironke-13861a193/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ibironkepeter@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a
  
 ---
 
 ### 🚀 About Me
 
-- 📊 Working in **data analytics**, with a focus on product & BI — event taxonomies, funnels, and reporting frameworks for fintech/crypto platforms
 - 🏃 Building tooling for **athletics competition management**, including athlete registration, ranking, and results reporting for meets like MTN Champs
 - 🤖 Exploring practical applications of **AI/LLMs** in study tools, notifications, and reporting pipelines
 - 🌱 Currently sharpening skills in Python, data visualization, and mobile app development (Flutter)
