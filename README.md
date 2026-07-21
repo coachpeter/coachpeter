@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Peter 👋</h1>
+<h1 align="center">Hi, I'm Peter Ibironke👋</h1>
 
 <p align="center">
   Data Analyst • Builder of sports-tech & AI tools 
